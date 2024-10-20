@@ -2,7 +2,7 @@ import org.example.Solution;
 import org.junit.Test;
 import org.junit.Assert;
 
-public class L2022211907_10_Test { // 示例学号：20201234
+public class L2022211907_10_Test { // 示例学号：20201234 <-- 示例都懒得删除 真乃蓝狗也XD
 
     @Test
     public void testCase1() {
